@@ -34,8 +34,8 @@
       <client>0</client>
       <folder />
    </update>
+      <name>jOpenSim eleport</name>
    <update>
-      <name>jOpenSim teleport</name>
       <description>Module to display teleport buttons anywhere on the website.</description>
       <element>mod_opensim_teleport</element>
       <type>module</type>
