@@ -5,7 +5,7 @@
         <description>Module to display teleport buttons anywhere on the website.</description>
         <element>mod_opensim_teleport</element>
         <type>module</type>
-        <version>0.3.0.1</version>
+        <version>0.3.0.0</version>
         <infourl title="jOpenSim URL">http://www.jopensim.com</infourl>
         <downloads>
             <downloadurl type="full" format="zip">https://github.com/djphil/mod_opensim_teleport/archive/master.zip</downloadurl>
