@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+    <update>
+        <name>Icons Visitors Counter Module</name>
+        <description>Module to display visitors anywhere on the website.</description>
+        <element>mod_vvisit_counter</element>
+        <type>module</type>
+        <version>0.3.0.0</version>
+        <infourl title="Icons Visitor Counter Update Server">https://github.com/djphil</infourl>
+        <downloads>
+            <downloadurl type="full" format="zip">
+                https://github.com/djphil/mod_vvisit_counter/archive/master.zip
+            </downloadurl>
+        </downloads>
+        <maintainer>djphil</maintainer>
+        <maintainerurl>https://github.com/djphil</maintainerurl>
+        <section>Updates</section>
+        <targetplatform name="joomla" version="3." />
+        <client>0</client>
+        <folder />
+    </update>
+</updates>
